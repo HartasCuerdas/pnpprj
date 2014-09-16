@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="677" measuredH="1287" mockupW="599" mockupH="1245">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="78" y="42" w="599" h="1245" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>P%20n%27%20P</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="93" y="81" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Date%3A%20Ago%2016</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="98" y="103" w="-1" h="-1" measuredW="65" measuredH="21" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Hour%3A%2015%3A50</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="93" y="139" w="-1" h="-1" measuredW="120" measuredH="561" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>hh%3Amm%2C%20Pee%2C%20Poo%0A06%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A06%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A07%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A07%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A08%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A08%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A09%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A09%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A10%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A10%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A11%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A11%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A12%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A12%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A13%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A13%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A14%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A14%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="228" y="139" w="-1" h="-1" measuredW="120" measuredH="561" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>hh%3Amm%2C%20Pee%2C%20Poo%0A15%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A15%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A16%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A16%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A17%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A17%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A18%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A18%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A19%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A19%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A20%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A20%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A21%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A21%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A22%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A22%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D%0A23%3A00%2C%20%5Bx%5D%2C%20%5Bx%5D%0A23%3A30%2C%20%5Bx%5D%2C%20%5Bx%5D</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
