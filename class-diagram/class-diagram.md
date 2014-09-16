@@ -1,3 +1,3 @@
 #Class Diagram
 
-![Class diagram](pnp-class-diagram.svg)
+![Class diagram](pnp-class-diagram.png)
