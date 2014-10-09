@@ -18,7 +18,7 @@
 
 ###List of weeks
 
-![Weeks](iPnp/iWeeks.png =300x)
+![Weeks](iPnp/iWeeks.png)
 
 ###Edit mode
 
